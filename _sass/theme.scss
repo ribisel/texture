@@ -91,7 +91,15 @@ header {
 				}
 			}
 		}
+		
+		a {
+			&:hover {
+				color: #fff;
+			}
+		}
 	}
+	
+	
 }
 
 .clearfix {
