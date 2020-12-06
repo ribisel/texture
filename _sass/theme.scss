@@ -97,6 +97,7 @@ header {
 			text-decoration: none;
 			transition: border-bottom 0.4s;
 			&:hover {
+				text-decoration: none;
 				color: $gray;
 			}
 		}
