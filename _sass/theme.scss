@@ -109,14 +109,11 @@ header {
 		right: 150px;
 	}
 	
-	a {
-		color: $linkColor;
+	a:hover {
 		text-decoration: none;
-		transition: border-bottom 0.4s;
-		&:hover {
-			border-bottom: 0.5px solid $linkColor;
+		border-bottom: 0.5px solid $linkColor;
 		}
-	}
+	
 
 	@media screen and  (max-width: $mobileWidth) {
 		margin:0 15px; 
