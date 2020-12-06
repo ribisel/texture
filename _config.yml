@@ -19,7 +19,7 @@ texture:
   tagline: bunt gemischt. ein Versuch
   date_format: "%b %-d, %Y"
   style: black
-  showNav: true
+  showNav: false
   showPicker: false
   navigation:
     - title: Pasta
