@@ -22,9 +22,13 @@ texture:
   showNav: true
   showPicker: false
   navigation:
-    - title: My Work
+    - title: Pasta
       url: "/404.html"
-    - title: Resume
+    - title: Fleisch
+      url: "/404.html"
+    - title: Gemüse
+      url: "/404.html"
+    - title: Suesses
       url: "/404.html"
 
   # generate social links in footer
