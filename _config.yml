@@ -19,8 +19,13 @@ texture:
   tagline: bunt gemischt. ein Versuch
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
+  showNav: true
   showPicker: false
+  navigation:
+    - title: My Work
+      url: "/404.html"
+    - title: Resume
+      url: "/404.html"
 
   # generate social links in footer
   social_links:
