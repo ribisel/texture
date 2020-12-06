@@ -93,11 +93,11 @@ header {
 		}
 		
 		a {
-			color: $red;
+			color: #FF69B4;
 			text-decoration: none;
 			transition: border-bottom 0.4s;
 			&:hover {
-				color: $blue;
+				color: #DAA520;
 			}
 		}
 	}
