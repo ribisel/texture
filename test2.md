@@ -1,0 +1,3 @@
+---
+layout: cat1pages
+---
