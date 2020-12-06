@@ -3,11 +3,12 @@ layout: post
 title:  "Schweinsbraten"
 date:   2019-05-23 21:03:36 +0530
 category: cat1
+ingredients:
+  - Schweinsschulter
 ---
 ### Zutaten
 - Schweinsschulter
 - Kümmel
-- Pfeffer
 
 ![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 
