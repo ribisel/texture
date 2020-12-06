@@ -93,8 +93,11 @@ header {
 		}
 		
 		a {
+			color: $linkColor;
+			text-decoration: none;
+			transition: border-bottom 0.4s;
 			&:hover {
-				color: #fff;
+				border-bottom: 0.5px solid $linkColor;
 			}
 		}
 	}
