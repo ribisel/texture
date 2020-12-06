@@ -23,7 +23,7 @@ texture:
   showPicker: false
   navigation:
     - title: Pasta
-      url: "/404.html"
+      url: "/test.html"
     - title: Fleisch
       url: "/404.html"
     - title: Gemüse
